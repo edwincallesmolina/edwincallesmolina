@@ -10,7 +10,7 @@ Before that I designed and built two scratch high-power rockets in SolidWorks an
 
 Four documented flight tests across two vehicles. Two of them failed. The portfolio covers all four.
 
-I am looking for a Summer 2027 engineering internship in aerospace structures, propulsion, test, or manufacturing. U.S. citizen, based in the Inland Empire.
+I am looking for a Summer 2027 engineering internship in aerospace design, structures, propulsion, test, or manufacturing. U.S. citizen, based in the Inland Empire.
 
 **Portfolio** https://edwincallesmolina.github.io  
 **LinkedIn** https://www.linkedin.com/in/edwin-calles-molina  
