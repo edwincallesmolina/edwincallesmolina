@@ -1,6 +1,6 @@
 # Edwin Calles Molina
 
-Aerospace Engineering student at Cal Poly Pomona, expected August 2029. I design rockets, build them, fly them, and work from the data that comes back.
+Aerospace Engineering student at Cal Poly Pomona, expected graduation August 2029. I design rockets, build them, fly them, and work from the data that comes back.
 
 ### Portfolio — https://edwincallesmolina.github.io
 
